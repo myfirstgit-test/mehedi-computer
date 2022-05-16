@@ -1,3 +1,4 @@
 1. This is a test Text file from master branch of lalpur computer
 2. This edition is from "edit-text-file branch" at line two.
 3. This line 3 is added by GitHub editor online. 
+4. This line added for checking direct update to local repo using "PULL" command/request.
