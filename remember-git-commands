@@ -1,0 +1,2 @@
+1. To see the origin of local repository -> git remote -v
+2. To see the user name of local repository -> git config --get user.name
