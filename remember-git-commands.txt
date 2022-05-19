@@ -5,5 +5,6 @@
 5. To set origin of a local git repository -> git remote add origin URL
 6. To see the origin of local repository -> git remote -v
 7. To see log without pager -> git --no-pager log
-
+8. To switch to a branch -> git checkout branch-name
+9. Adding new username to credential manager -> git config credential.username "new name"
 
