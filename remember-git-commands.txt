@@ -1,6 +1,9 @@
-1. To see the origin of local repository -> git remote -v
-2. To see the user name of local repository -> git config --get user.name
-3. To see the user email of local repository -> git config --get user.email
-4. To see log without pager -> git --no-pager log
-5. To set username of local git repo -> git config --global user.name "gitrepo-test"
-6. To set username of local git repo -> git config --global user.email "testmail@gmail.com"
+1. To set username of local git repo -> git config --global user.name "gitrepo-test"
+2. To set username of local git repo -> git config --global user.email "testmail@gmail.com"
+3. To see the user name of local repository -> git config --get user.name
+4. To see the user email of local repository -> git config --get user.email
+5. To set origin of a local git repository -> git remote add origin URL
+6. To see the origin of local repository -> git remote -v
+7. To see log without pager -> git --no-pager log
+
+
