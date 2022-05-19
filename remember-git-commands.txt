@@ -2,3 +2,4 @@
 2. To see the user name of local repository -> git config --get user.name
 3. To see the user email of local repository -> git config --get user.email
 4. To see log without pager -> git --no-pager log
+5.Git command to set username of local git repo -> git config --global user.name "gitrepo-test"
